@@ -55,7 +55,7 @@ const Technologies = () =>  (
           <ListTitle>BlockChain</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Solidity | Web3.js
+            Solidity | Web3JS
           </ListParagraph>
         </ListContainer>
       </ListItem>
